@@ -4,7 +4,7 @@
 <ul>
   <li>Used Json with 8080 port to get the datas.</li>
   <li>Data parse from time.com website using Parsehub.</li>
-  <li>Responsive Landing page to read the Latest News.</li>
+  <li>Responsive Landing page to read the stories.</li>
 </ul>
 
 <h3 align="left">Tech Stacks:</h3>
